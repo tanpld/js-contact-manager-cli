@@ -6,7 +6,7 @@
 
 ### Go to the project
 
-`cd js-contact-manger-cli`
+`cd js-contact-manager-cli`
 
 ### Install packages
 
